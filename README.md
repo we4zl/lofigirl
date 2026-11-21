@@ -1,5 +1,10 @@
 # LofiTUI
 
+## WEAZL and WE4ZL branding
+
+Forking or reusing code does not grant permission to brand or market your own product with the WEAZL™ or WE4ZL™ wordmarks or the weazl head logo. See the [trademark and artwork notice](TRADEMARKS.md).
+
+
 
 A Textual TUI (Terminal User Interface) for playing YouTube lofi streams directly in your terminal using `mpv`. Enjoy your favorite lofi beats with ASCII art video, all from the comfort of your command line.
 
@@ -49,7 +54,3 @@ To run the LofiTUI, simply execute the `run.sh` script:
 
 ```bash
 ./run.sh
-
-## WEAZL and WE4ZL branding
-
-Forking or reusing code does not grant permission to brand or market your own product with the WEAZL™ or WE4ZL™ wordmarks or the weazl head logo. See the [trademark and artwork notice](TRADEMARKS.md).
